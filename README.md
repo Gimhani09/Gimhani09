@@ -5,9 +5,7 @@
 
 
 
-- 🧑‍🎓Currently in **my 3rd year, gaining expertise across various areas of IT, including a keen interest in full-stack web development.**
-  
--  🌱 I’m currently learning **MERN**
+- 🧑‍🎓Currently in **my 4th year, gaining expertise across various areas of IT, including a keen interest in full-stack web development.**
 
 - 📫 How to reach me **gimhanijayasuriya138@gmail.com**
 
