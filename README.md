@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gimhani Jayasuriya</h1>
+<h1 align="center">Hi , I'm Gimhani Jayasuriya</h1>
 <h3 align="center">A passionate IT Student | Undergraduate in Information Technology(Specializing in IT) at SLIIT, Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gimhani09&label=Profile%20views&color=0e75b6&style=flat" alt="gimhani09" /> </p>
 
 
 
-- 🧑‍🎓Currently in **my 4th year, gaining expertise across various areas of IT, including a keen interest in full-stack web development.**
+- Currently in **my 4th year, gaining expertise across various areas of IT, including a keen interest in full-stack web development.**
 
-- 📫 How to reach me **gimhanijayasuriya109@gmail.com**
+- How to reach me **gimhanijayasuriya109@gmail.com**
 
-- ⚡ Fun fact **call me as Gim**
+- Fun fact **call me as Gim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
