@@ -7,7 +7,7 @@
 
 - 🧑‍🎓Currently in **my 4th year, gaining expertise across various areas of IT, including a keen interest in full-stack web development.**
 
-- 📫 How to reach me **gimhanijayasuriya138@gmail.com**
+- 📫 How to reach me **gimhanijayasuriya109@gmail.com**
 
 - ⚡ Fun fact **call me as Gim**
 
