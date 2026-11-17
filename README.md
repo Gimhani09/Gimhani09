@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://gimhani.me/">Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/gimhani-jayasuriya-38911a32b/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/gimhani-jayasuriya/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:gimhanijayasuriya109@gmail.com">Email</a>
 </p>
 
